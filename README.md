@@ -11,9 +11,9 @@ Passionate about security operations, defensive monitoring, and threat analysis.
     <img src="https://tryhackme-badges.s3.amazonaws.com/sammiie.png?update=1" alt="TryHackMe Profile Badge" height="90"/>
   </a>
 
-  <!-- LetsDefend Match Badge (Your Uploaded Image) -->
-  <a href="https://letsdefend.io/" target="_blank">
-    <img width="400" height="400" alt="ld_logo_v2" src="https://github.com/user-attachments/assets/4188a082-22bd-4776-adac-4b9ef9d365db" alt="LetsDefend Profile" height="90" style="margin-left: 10px;"/>
+  <!-- LetsDefend Match Badge -->
+  <a href="https://app.letsdefend.io/user/sammiie" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4188a082-22bd-4776-adac-4b9ef9d365db" width="90" height="55" alt="LetsDefend Profile" style="margin-left: 10px;"/>
   </a>
 </p>
 
