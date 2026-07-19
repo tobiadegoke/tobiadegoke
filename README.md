@@ -6,12 +6,12 @@ Passionate about security operations, defensive monitoring, and threat analysis.
 
 ## 📈 Platform Metrics & Continuous Training
 
-<p align="left">
   <!-- Dynamic TryHackMe Profile Badge Widget -->
   <a href="https://tryhackme.com/p/sammiie" target="_blank">
-    <img src="https://vercel.app/sammiie" alt="TryHackMe Profile Badge" height="90"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/sammiie.png?update=1" alt="TryHackMe Profile Badge" height="90"/>
   </a>
-</p>
+<img width="400" height="400" alt="ld_logo_v2" src="https://github.com/user-attachments/assets/4188a082-22bd-4776-adac-4b9ef9d365db" />
+
 
 ### 🏆 Training Milestone Breakdown
 *   **TryHackMe:** Top **2%** globally | Focus Areas: Active Directory Security, Linux Privilege Escalation, Splunk, and Network Forensics.
@@ -38,6 +38,19 @@ Passionate about security operations, defensive monitoring, and threat analysis.
 
 *   [🏛️ Enterprise Security Home Lab](LINK_TO_YOUR_LAB_REPO) – A full virtual enterprise domain built to practice log generation, centralized SIEM collection, and alerting configurations.
 *   [🏁 Cybersecurity CTF Write-Ups](LINK_TO_YOUR_WRITEUPS_REPO) – Step-by-step methodologies detailing exactly how I break down, exploit, and propose mitigations for vulnerable machines.
+
+---   
+## 📜 Professional Certifications
+
+### 🛡️ Cybersecurity & Infrastructure
+<a href="YOUR_COMPTIA_CREDLY_LINK" target="_blank">
+  <img src="https://shields.io" alt="CompTIA Security+" />
+</a>
+
+### ☁️ Cloud Architecture & Security
+<a href="YOUR_AZURE_MICROSOFT_LINK" target="_blank">
+  <img src="https://shields.io" alt="Azure Fundamentals" />
+</a>
 
 ---
 
