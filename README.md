@@ -1,4 +1,4 @@
-# 🛡️ Hi, I'm Oluwatobi Samuel Adegoke | Cybersecurity Analyst & Practitioner
+# 🛡️ Oluwatobi Samuel Adegoke | Cybersecurity Analyst & Practitioner
 
 Passionate about security operations, defensive monitoring, and threat analysis. I focus heavily on continuous hands-on learning through simulated corporate environments, home labs, and CTFs.
 
