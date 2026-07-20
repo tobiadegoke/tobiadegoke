@@ -13,7 +13,7 @@ Passionate about security operations, defensive monitoring, and threat analysis.
 
   <!-- LetsDefend Match Badge -->
   <a href="https://app.letsdefend.io/user/sammiie" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4188a082-22bd-4776-adac-4b9ef9d365db" width="90" height="55" alt="LetsDefend Profile" style="margin-left: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/4188a082-22bd-4776-adac-4b9ef9d365db" width="70" height="55" alt="LetsDefend Profile" style="margin-left: 10px;"/>
   </a>
 </p>
 
