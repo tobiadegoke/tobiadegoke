@@ -15,12 +15,24 @@ Passionate about security operations, defensive monitoring, and threat analysis.
   <a href="https://app.letsdefend.io/user/sammiie" target="_blank">
     <img src="https://github.com/user-attachments/assets/4188a082-22bd-4776-adac-4b9ef9d365db" width="70" height="55" alt="LetsDefend Profile" style="margin-left: 10px;"/>
   </a>
+
+  <!-- BreachLab Badge -->
+ <a href="https://breachlab.org/u/chmodrx" target="_blank">
+    <img src="https://github.com/user-attachments/assets/50bbfc38-1e89-4011-b94e-0964f4ee4d68" width="150" height="55" alt="LetsDefend Profile" style="margin-left: 10px;"/>
+  </a>
+
+   <!-- BlueTeamLab Online -->
+ <a href="https://blueteamlabs.online/public/user/f25d92a73d5dead018a4f6" target="_blank">
+    <img src="https://github.com/user-attachments/assets/13fbba5d-46f6-41da-a678-1e865b83a355" width="250" height="55" alt="LetsDefend Profile" style="margin-left: 10px;"/>
+  </a>
 </p>
 
 
 ### 🏆 Training Milestone Breakdown
 *   **TryHackMe:** Top **2%** globally | Focus Areas: Active Directory Security, Linux Privilege Escalation, Splunk, and Network Forensics.
 *   **LetsDefend:** **[X]** Incidents Resolved | Specializing in SOC alert triage, phishing mail analysis, and endpoint malware investigation.
+*   **BreachLab:** **Global Rank #349** | Specializing in SOC alert triage, phishing mail analysis, and endpoint malware investigation.
+*   **Blue Team Labs Online:** **Global Rank #349** | Specializing in SOC alert triage, phishing mail analysis, and endpoint malware investigation.
 *   **Other CTFs:** Active participant in [Mention platforms like HackTheBox or Blue Team Labs Online if applicable].
 
 ---
