@@ -11,14 +11,14 @@ Passionate about security operations, defensive monitoring, and threat analysis.
     <img src="https://tryhackme-badges.s3.amazonaws.com/sammiie.png?update=1" alt="TryHackMe Profile Badge" height="90"/>
   </a>
 
-   <!-- BreachLab Badge -->
- <a href="https://breachlab.org/u/chmodrx" target="_blank">
-    <img src="https://github.com/user-attachments/assets/50bbfc38-1e89-4011-b94e-0964f4ee4d68" width="150" height="60" alt="LetsDefend Profile" style="margin-left: 10px;"/>
+  <!-- BlueTeamLab Online -->
+  <a href="https://blueteamlabs.online/public/user/f25d92a73d5dead018a4f6" target="_blank">
+    <img src="https://github.com/user-attachments/assets/13fbba5d-46f6-41da-a678-1e865b83a355" width="250" height="60" alt="LetsDefend         Profile" style="margin-left: 10px;"/>
   </a>
 
-   <!-- BlueTeamLab Online -->
- <a href="https://blueteamlabs.online/public/user/f25d92a73d5dead018a4f6" target="_blank">
-    <img src="https://github.com/user-attachments/assets/13fbba5d-46f6-41da-a678-1e865b83a355" width="250" height="60" alt="LetsDefend Profile" style="margin-left: 10px;"/>
+   <!-- BreachLab Badge -->
+  <a href="https://breachlab.org/u/chmodrx" target="_blank">
+    <img src="https://github.com/user-attachments/assets/50bbfc38-1e89-4011-b94e-0964f4ee4d68" width="150" height="60" alt="LetsDefend Profile" style="margin-left: 10px;"/>
   </a>
 
    <!-- LetsDefend Match Badge -->
